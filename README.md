@@ -19,4 +19,5 @@ I'm a beginner Python developer focused on automation scripts and simple tools t
 - Beginner-friendly tools
 
 ## 📬 Contact
-- Instagram: coming soon
+- Instagram: @scpyex
+- Reddit: r/Scpyex
