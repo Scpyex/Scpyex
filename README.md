@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Scpyex
 
-<!--
-**Scpyex/Scpyex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner Python developer focused on automation scripts and simple tools that save time and improve productivity.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python (automation scripts)
+- File organization & backups
+- Basic Git & GitHub
+- Windows scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 📁 Automatic File Organizer  
+- 📝 Batch File Renamer  
+- 💾 Automatic File Backup  
+
+## 🎯 What I offer
+- Simple automation scripts
+- Custom scripts for file management
+- Beginner-friendly tools
+
+## 📬 Contact
+- Instagram: coming soon
